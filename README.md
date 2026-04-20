@@ -12,8 +12,8 @@
 
 An AI-powered web app that analyzes resumes against job descriptions.
 
-👉 **Live Demo:** https://christiangay.rf.gd
-👉 **GitHub Repo:** https://github.com/yourusername/ai-resume-analyzer
+👉 **Live Demo:** https://the-resume-analyzer.onrender.com
+👉 **GitHub Repo:** https://github.com/cag92/resume-analyzer
 
 **Features:**
 
@@ -42,8 +42,8 @@ An AI-powered web app that analyzes resumes against job descriptions.
 
 ## 📫 Contact
 
-* GitHub: https://github.com/yourusername
-* Email: (optional)
+* GitHub: https://github.com/cag92
+* Email: cag92@njit.edu
 
 ---
 
