@@ -26,7 +26,7 @@ An AI-powered web app that analyzes resumes against job descriptions.
 
 ## 🛠️ Skills
 
-* **Languages:** PHP, JavaScript, HTML, CSS
+* **Languages:** Java, Python, PHP, JavaScript, HTML, CSS
 * **Tools:** Git, GitHub, Composer
 * **Concepts:** Full-stack development, API integration, data visualization
 
