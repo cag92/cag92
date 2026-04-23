@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Christian Gay
 
-NJIT Student
-Aspiring Software Developer
+NJIT Student, 
+Aspiring Software Developer, 
 Interested in AI, Web Development, and Building Real-World Projects
 
 ---
