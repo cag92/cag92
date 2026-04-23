@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Christian Gay
 
-🎓 NJIT Student
-💻 Aspiring Software Developer
-🚀 Interested in AI, Web Development, and Building Real-World Projects
+NJIT Student
+Aspiring Software Developer
+Interested in AI, Web Development, and Building Real-World Projects
 
 ---
 
-## 🔥 Featured Project
+## Featured Project
 
-### 🚀 AI Resume Analyzer
+### AI Resume Analyzer
 
 An AI-powered web app that analyzes resumes against job descriptions.
 
@@ -24,7 +24,7 @@ An AI-powered web app that analyzes resumes against job descriptions.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 * **Languages:** Java, Python, PHP, JavaScript, HTML, CSS
 * **Tools:** Git, GitHub, Composer
@@ -32,7 +32,7 @@ An AI-powered web app that analyzes resumes against job descriptions.
 
 ---
 
-## 📈 Currently Working On
+## Currently Working On
 
 * Improving AI Resume Analyzer
 * Learning more about backend development
@@ -40,7 +40,7 @@ An AI-powered web app that analyzes resumes against job descriptions.
 
 ---
 
-## 📫 Contact
+## Contact
 
 * GitHub: https://github.com/cag92
 * Email: cag92@njit.edu
